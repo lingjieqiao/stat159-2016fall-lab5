@@ -6,7 +6,7 @@ User B: **Kevin Liao**
 
 ## Task 1: Working on the master branch
 In task 1, both userA and userB are working on the master branch (modify and push to master). At this point, there is no particular error/conflict because userA and userB made changes to the local repository after pulling the changes from master first, keeping the file constant and up-to-date on both users' directory.
-![alt tag]([https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/02.svg)
+![alt tag](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/02.svg)
 This image is a good illustration of how both users are working with the master branch.
 
 ## Task 2: Resolving Conflicts

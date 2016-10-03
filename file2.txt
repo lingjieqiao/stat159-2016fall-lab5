@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Kevin is doing something on file2
-=======
+
 New modification to file 2 - UserA
->>>>>>> 52d587cd4e95282bca8c0bb0cd80c3fdc61fa49e
+

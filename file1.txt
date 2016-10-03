@@ -1,9 +1,17 @@
 Kevin Liao and Lingjie Qiao's collaborative lab
 
+<<<<<<< HEAD
 
 
 Kevin is modifying file1 again
 
 
 
+=======
+Kevin is modifying file1 again
+
+Modification to File 1 - User A
+
+Task 4A: modification - User A
+>>>>>>> 993c57ba4f472235762f3b5db3da02edec36ca47
 

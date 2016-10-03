@@ -1,7 +1,5 @@
 Kevin Liao and Lingjie Qiao's collaborative lab
 
-<<<<<<< HEAD
-Kevin is modifying file1
-=======
-Modification to File 1 - User A
->>>>>>> 52d587cd4e95282bca8c0bb0cd80c3fdc61fa49e
+
+Kevin is modifying file1 again
+

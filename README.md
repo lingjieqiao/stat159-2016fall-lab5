@@ -1,6 +1,7 @@
 # stat159-2016fall-lab5
 
 User A: **Lingjie Qiao**
+
 User B: **Kevin Liao**
 
 ## Task 1: Working on the master branch
